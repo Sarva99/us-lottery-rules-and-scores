@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "US Lottery Rules and Scores"
+version: "2026.11.03"
+date-released: "2026-11-03"
+license: CC-BY-4.0
+url: "https://usalotteryreviews.com/data"
+authors:
+  - name: "USA Lottery Reviews"
+    website: "https://usalotteryreviews.com"
+abstract: "Sourced US state lottery rules (age, tax, claim deadline, anonymity, online sales) and scores for 71 lotteries, apps and sweepstakes."
+keywords: [lottery, united states, taxes, consumer finance]
